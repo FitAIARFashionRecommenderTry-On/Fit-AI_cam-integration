@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.98e13870.css",
+    "main.js": "/static/js/main.c3cccdba.js",
+    "static/media/grocery-g830b6f3fb_1920.jpg": "/static/media/grocery-g830b6f3fb_1920.3758193840efd7b99e06.jpg",
+    "static/media/beverages-g174ec0caa_1920.jpg": "/static/media/beverages-g174ec0caa_1920.193d66c2d82b199c12f7.jpg",
+    "static/media/shopping-gba85911ef_1920.jpg": "/static/media/shopping-gba85911ef_1920.0be7fa56ecdcd0af0583.jpg",
+    "static/media/apparel-g0b5d68f3c_1920.jpg": "/static/media/apparel-g0b5d68f3c_1920.b6f43a9cb1d11262ca2d.jpg",
+    "static/media/hangers-g916f133de_1920.jpg": "/static/media/hangers-g916f133de_1920.b1d447079bf67a3c9f0c.jpg",
+    "static/media/footwear-gae60f1c74_1920.jpg": "/static/media/footwear-gae60f1c74_1920.accaafeff5e21de43332.jpg",
+    "static/media/walmartLogo.svg": "/static/media/walmartLogo.d6ea228a23740ffc7649a5fd061c0a48.svg",
+    "index.html": "/index.html",
+    "main.98e13870.css.map": "/static/css/main.98e13870.css.map",
+    "main.c3cccdba.js.map": "/static/js/main.c3cccdba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98e13870.css",
+    "static/js/main.c3cccdba.js"
+  ]
+}
